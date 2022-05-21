@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>ovr_officevisitreservation_d3932</Name>
+  <AppVersion>2022-05-20T18:11:06Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.22051.34.0</CreatedByClientVersion>
+  <MinClientVersion>3.22051.34.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.22051.34","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","sienaVersion":"20220520T181106Z-3.22051.34.0"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
+  <DisplayName>Office Visit Reservation</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences>[]</AuthorizationReferences>
+  <ConnectionReferences>{"5f2dad99-45c6-4ce3-8397-dc6b271f2f35":{"id":"/providers/microsoft.powerapps/apis/shared_sharepointonline","displayName":"SharePoint","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1568/1.0.1568.2757/sharepointonline/icon.png","dataSources":["AllDayWork","OfficeVisitReservation","VisitAvailability"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"dataSets":{"https://targetcorporations.sharepoint.com/sites/OfficeVisitReservation":{"dataSources":{"AllDayWork":{"tableName":"64f211f1-ce62-4e21-adbf-ee9c68f6f61f"},"OfficeVisitReservation":{"tableName":"9f433592-fc38-43fa-8457-244b678f2278"},"VisitAvailability":{"tableName":"a763a38f-3d6d-402a-8de4-9bec81c27231"}}}},"apiTier":"Standard","actions":["providers/PowerPlatform.Governance/Operations/Read"]}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <AppComponents>[]</AppComponents>
+  <AppComponentDependencies>[]</AppComponentDependencies>
+  <CanConsumeAppPass>1</CanConsumeAppPass>
+  <CanvasAppType>0</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/ovr_officevisitreservation_d3932_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/ovr_officevisitreservation_d3932_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
